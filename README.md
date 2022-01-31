@@ -1,2 +1,2 @@
-# minino
-Minino AVR Arduino based board for basic Neuroscience experimental setups
+# Minino
+Minino AVR Arduino based board for basic Neuroscience experimental setups 
