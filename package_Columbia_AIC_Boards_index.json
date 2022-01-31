@@ -1,0 +1,39 @@
+{
+  "packages": 
+  [
+    {
+       "name": "Minino",
+       "maintainer": "Columbia ZI AIC",
+       "help": 
+       {
+         "online": "http://www.columbia.edu/ZI"
+       },
+       "websiteURL": "http://www.columbia.edu",      
+       "platforms": 
+       [
+         {
+           "category": "Contributed",
+           "help": 
+           {
+             "online": "http://www.columbia.edu"
+           },
+           "url": "https://Columbia-University-ZMBBI-AIC.github.io/Minino/ColAICBoards.zip",
+           "checksum": "SHA-256:f2c55aeade7d66737eb8c5e30ee48ce029b067f9de3fbb84e89cbc54a64e8add",
+           "archiveFileName": "ColAICBoards.zip",
+           "size": "4248",
+           "name": "Minino AVR Boards",
+           "version": "1.0.0",
+           "architecture": "avr",
+           "boards": 
+           [
+             {
+               "name": "Minino AIC"
+             }
+           ],
+           "toolsDependencies": []
+         }
+      ],
+      "tools":[]
+    }
+  ]
+}
