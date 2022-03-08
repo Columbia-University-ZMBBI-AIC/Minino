@@ -18,9 +18,9 @@
              "online": "http://www.columbia.edu"
            },
            "url": "https://Columbia-University-ZMBBI-AIC.github.io/Minino/ColAICBoards.zip",
-		   "checksum": "SHA-256:fefd0fb059f85c5c9ab35deacc3476b53590813d56acdbaf9ba72fdc82a7142b",
+		   "checksum": "SHA-256:9041c2adcdf6e46e7555fedbcaa69c6d53021623b30516592ba7e97c4febcace",
            "archiveFileName": "ColAICBoards.zip",
-           "size": "7833",
+           "size": "7836",
            "name": "Minino AVR Boards",
            "version": "1.0.2",
            "architecture": "avr",
